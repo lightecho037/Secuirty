@@ -1,0 +1,126 @@
+Lesson 2: Common Security Threats
+
+2.1 Network Security Threats Landscape
+
+2.2 Distributed Denial Of Service [DDoS]
+
+2.3 Social Engineeringt Methods
+
+2.4 Man in the Middle Attacks
+
+2.5 Malware Identification Tools
+
+2.6 Data Loss and Exfiltration
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2.1 Network Security Threats Landscape
+
+  > Custom malware
+  > Multiple bad actors
+  > Infrastructure Attack
+  > Many do not understand malware
+  > Loss of control
+  > Denial of service
+  > Undetected communication
+
+Motivations
+
+  > Financial
+  > Other several reasons
+  > Geopolitical 
+  
+Corporate Challenges
+
+  > Large networks
+  > Open Software
+  > Virtualization  
+  > Cloud Computing
+  > IoT/IoE
+
+2.2 Distributed Denial Of Service [DDoS]
+
+  > To consume all the bandwith and resources 
+  
+General Categories of DDoS Attacks
+
+  > Direct || The attacker generates packets that are send directly to the victim
+  
+  > Reflected || UDP often used due to the lack of THREE-WAY HANDSHAKE 
+              || Unknow participants send the packets to the victim
+              
+  > Amplification || Unknow participants send larger packet to the victim
+              
+2.3 Social Engineeringt Methods
+  
+  > Is the art of manipulation people so they give up confidential information
+  
+Tactics
+  
+  > Phishing || Appears to come from a legimate source 
+             || Fake Emails or web sites that apper legitimate || bank web media
+  
+  
+  > Malvertising || Malicious ADS in legitimate webs sites 
+                 
+  > Phone scams || Call conversations
+  
+DEFENSES 
+
+  > Education
+  > Passwod Management
+  > Two-Factor Authentication
+  > Antivirus 
+  > Management
+  > Information Classification || CIA 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
