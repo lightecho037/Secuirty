@@ -1,0 +1,53 @@
+CH - 2 Understanding Security Threats
+
+Hacktivists || Those how hack not for personal gain 
+            || Political Reasons
+            
+Thrill Hackers || Do it for the notoriety
+
+CLASSIFYING ATTACK VECTORS 
+
+Theats agents can be brouped into the following Five categories
+
+  > Human || Malicious and nonmalicious insiders and outsiders
+          || Terrorist
+          || Spies
+          || Terminated Personel
+          
+  > Natural || Floods 
+            || Fires  
+            || Hurricans .....etc...
+            
+  > Technical || Hardware 
+              || Software
+              || code
+              || New tecknology
+              
+  > Physical || Perimeter 
+             || Biometric
+           
+  > Operational || Process
+                || Procedure
+                || CIA
+                
+SPOOFING
+  Appears to come from a trusted source
+  > IP Address || Simmulate a legitimate ip address to pass ACL and firewalls
+  > MAC Address || Same as IP Address
+  > Email || It is possible to alter the fields of From, Return, Path, Reply 
+  
+PASSWORD ATTACKS
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
