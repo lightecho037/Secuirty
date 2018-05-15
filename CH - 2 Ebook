@@ -37,6 +37,18 @@ SPOOFING
   > Email || It is possible to alter the fields of From, Return, Path, Reply 
   
 PASSWORD ATTACKS
+  > Dictionary Attacks
+  > Brute Force Attacks [Refer to > Exhaustive attack]
+ 
+RECONNAISSANCE ATTACKS
+
+  > Reconnaissance Attacks [Refer to > Fingerprinting]
+  > The way informaiton can be gather 
+  Example 
+  > Ping Scan || Nmap || ScanLine || SuperScan
+
+PORT SCAN
+
 
 
                 
