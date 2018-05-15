@@ -74,9 +74,28 @@ DEFENSES
   > Management
   > Information Classification || CIA 
   
+ 2.4 Man In The Middle Attacks
+ 
+  > This can happen at layer 2 or layer 3
+  > main purpose can see all traffic by being undetective 
   
+ 2.5 MALWARE IDENTIFICATIONS TOOLS
+ 
+  > Packet Captures
+  > Netflow
+  > Snort || Immunet || Clamav 
+  > Cisco Advance Malware
+  > Cisco Fire power Next-generation intrusion prevention system [NGIPS]
   
+2.6 DATA LOSS AND EXFILTRATION METHODS
+
+  >  Intellectual Property
+  >  Personally Identifiable Information 
+  > Credit/debit cards
   
+
+  
+ 
   
   
   
