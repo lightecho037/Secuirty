@@ -49,6 +49,172 @@ RECONNAISSANCE ATTACKS
 
 PORT SCAN
 
+  > NMAP || The most popular port  scan tool use today 
+         || This tool perform scans with certain flags set in the SCAN PACKETS 
+         || Security Analyst and [hackerr] can make certain assumptions based on the responses received 
+         
+  THE CHACKER CAN CRACK PACKETS ON THE TCP HEADER FLAGS
+  
+  * URG || Urgen pointer field significant
+  * ACK || Acknowledgment field significant
+  * PSH || Push Function
+  * RST || Reset the connection
+  * SYN || Synchronize sequence numbers
+  * FIN || No more data from sender
+  
+  * NULL scan || This test sometimes penetrate firewalls and edge routers 
+              || because sequence number of 0 and no flags 
+
+  * No reponse || The port is open o the target
+  
+  * RST || The port is closed on the target
+  
+  * XMAS || Sets the FIN, PSH, AND URG flags, when the packet is sent
+  
+  * Example:
+  
+            -]# nmap -sX 192.168.232.129
+            
+OS FINGERPRINTING 
+
+  > It is a method that is used to determine the Operating System 
+
+BUFFER OVERFLOW
+
+  > It is the amount of data that is submitted to a data and is larger than the buffer can handle due to poorly  OS or App
+  > To prevent || Install Updates || check overflow conditions || 
+  > The key to preventing many buffer overflow attacks is input VALIDATON 
+  
+DOS
+
+  > Popular attacks inlcude SYN floods, pings of death, smurf attacks
+
+DDoS
+
+  > Is carried out from multiple attack locations 
+  > Infected Devices are called || Zombies || Software in use are BOTNETS           
+  > BONETS || Help to HIDE the original source of the attack 
+ 
+  > Attacks can be
+            * Direct ||  > Attacker > Handler > Zombies > VICTIM
+            * reflected || Smurf attack >> send ICMP 
+            * Amplified || similar to Direct 
+
+PING OF DEATH
+
+  > Oversized ICMP packet is sent to the target. MAXIMUM allowable IP packet size is 65,535 including packet header
+
+MAN - IN - THE - MIDDLE - ATTACK
+
+  > The Attacker listens to the communication between two comminicators and changes the contents of this communication 
+  
+ARP POISONING
+  
+  > The attacker answers the ARP request from other computer then both computers will have the attackers MAC add 
+  > Dynamic ARP Inspection [DAI] || Use by cisco to mitigate Arp Poisoning
+  > DHCP Snooping || Use by cisco to mitigate Arp Poisoning
+
+SOCIAL ENGINEERING 
+
+  >  The art of manipulating people so they give up confidential information
+
+  * PHISHING // PHARMING 
+  
+    > Learn personal information || Credit cards, financail data 
+    > Common methods || Fake website 
+    > SPEAR PHISHING || Conduct to a dedicated target 
+    > PHARMING || Similar to phishing || Reroutes DNS to alternate Website
+    
+PREVENTION
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
                 
