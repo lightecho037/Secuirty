@@ -127,12 +127,170 @@ SOCIAL ENGINEERING
     
 PREVENTION
 
-            
+  > Ensure that the sites are correct and that SSL is being used
+  
+Malware
 
+  > Software that perform malicious acts 
+  
+  * Virus || Attaches, replicates and distribute itself 
+  * Worm  || does not need anything to dupplicate itself
+  * Trojan Horse || Carrying out malicious actions 
+  * Spywre || Collectes private user data 
 
+DATA EXFILTRATION 
 
+  > Unauthorized transfer of data carried out by highly skilled cybercriminals 
+  > They are interested in three types of data
+  
+    * IP || Intellectual Property [Books, music, logos, inventions, slogans, etc ...]
+         || Can be protected by copyrights, trademarks and registrations 
+   
+    * PII || Personal Identifiable Information [It is used to Identify a single person] 
+          || Full name, indentification numbers, license, etc ....
+    
+    * Credit Card || best recommendation use Payment Card Industry Data Security Standard (PCI-DSS)
+    
 
+EXAM ESSENTIALS
 
+  > Describe attack motivations || Financial, disruption, geopolitical change, and notoriety.  
+                                || Attempted by crime groups, state sponsors, terrorist, hacktivists, hackers
+                                
+  > Common Network Attacks || Email, IP address, and MAC spoofing, Password Attcks
+                           || Dictionary and Brute forced attacks. 
+                           || Ping scans, Port scans, and SYN scans
+                           
+  > Social Engineering Attacks || Phishing 
+                               || Pharming
+                               || This attacks can lead to malware such as ping scans, port scans and SYN scans
+                               
+  > Define Data Exfiltration || PI
+                             || PII
+                             || Credit Card
+                             
+                             
+Review Questions
+
+What is the typical motivation of a hacktivist?
+Financial gain
+Disruption
+Geopolitical change **
+Notoriety 
+
+Which of the following attacks has as its goal to get through an ACL on a router?
+IP address spoofing **
+MAC address spoofing
+Email spoofing
+Buffer overflow
+
+Which of the following is not a form of password attack?
+Brute force
+Dictionary
+Port scan
+Social engineering **
+
+When executing a NULL scan, which response indicates the port is closed on the target?
+No response **
+Destination unreachable
+RST
+ACK
+
+Which of the following is a measure used to prevent buffer overflows?
+Input validation**
+Multifactor authentication
+Complex passwords
+Sensitivity labels
+
+Which of the following is not a DDoS attack?
+SYN flood
+Ping of death
+Smurf attack
+Man-in-the-middle**
+
+Which of the following is typically used to set up a man-in-the-middle attack?
+ARP poisoning**
+Dynamic ARP inspection
+Rogue switches
+MAC overflow
+
+Which of the following is mitigation for ARP poisoning?
+Input validation**
+DAI
+Multifactor authentication
+Rootguard
+
+Which of the following must be implemented to use DAI?
+DTP**
+Authenticated ARP
+DHCP snooping
+NAT
+
+Which of the following attaches itself to another application to replicate or distribute itself?
+Worm
+Rootkit
+Spyware
+Virus**
+
+Which of the following is considered to be a unique creation of the mind?
+PII
+IP
+PHI**
+IPS
+
+Which of the following provides recommendations for securely handling credit card data?
+HIPAA
+SOX
+PCI-DSS**
+GLBA
+
+At what OSI layer does MAC address spoofing occur?
+1
+2**
+3
+4
+
+Which of the following is mitigation for email spoofing?
+SPF
+DAI
+DNSSec**
+DHCP snooping
+
+Which of the following is a common tool used for ping and port scans?
+Metasploit
+Nmap**
+Netstat
+Snort
+
+Which of the following is not a flag set in an XMAS scan?
+FIN**
+PSH
+SYN
+URG
+
+Which of the following attacks uses an oversized ICMP packet?
+Ping of death**
+Smurf
+Fraggle
+SYN flood
+
+Which of the following is a reflected DDoS attack?
+Ping of death
+Smurf**
+Buffer overflow
+XXS
+
+Which attack type does DAI address?
+IP spoofing
+MAC overflow
+ARP poisoning**
+Ping of death
+
+Which of the following pollutes the contents of a computer’s DNS cache so that requests to a legitimate site are actually routed to an alternate site?
+Phishing**
+Pharming
+Vishing
+Whaling
 
 
 
